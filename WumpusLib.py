@@ -487,3 +487,5 @@ class WumpusGame(object):
 
         # Return the percepts.
         return(PerceptSet)
+
+
